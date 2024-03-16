@@ -9,3 +9,6 @@ if (flashAlpha > 0){
 		shader_reset();
 }
 obj_player.x -= fear;
+
+
+//audio_play_sound(snd_heartbeat, 1,0);

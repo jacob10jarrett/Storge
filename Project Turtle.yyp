@@ -47,6 +47,7 @@
     {"id":{"name":"snd_underwater","path":"sounds/snd_underwater/snd_underwater.yy",},},
     {"id":{"name":"obj_titlescreen_controller","path":"objects/obj_titlescreen_controller/obj_titlescreen_controller.yy",},},
     {"id":{"name":"rm_game2","path":"rooms/rm_game2/rm_game2.yy",},},
+    {"id":{"name":"snd_heartbeat","path":"sounds/snd_heartbeat/snd_heartbeat.yy",},},
     {"id":{"name":"obj_motherTurtle","path":"objects/obj_motherTurtle/obj_motherTurtle.yy",},},
     {"id":{"name":"shFlash","path":"shaders/shFlash/shFlash.yy",},},
     {"id":{"name":"obj_skip_intro","path":"objects/obj_skip_intro/obj_skip_intro.yy",},},
