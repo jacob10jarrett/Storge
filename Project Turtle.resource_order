@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_ocean1","order":2,"path":"sprites/spr_ocean1/spr_ocean1.yy",},
     {"name":"spr_sky1","order":1,"path":"sprites/spr_sky1/spr_sky1.yy",},
+    {"name":"shLight","order":1,"path":"shaders/shLight/shLight.yy",},
     {"name":"spr_mines","order":8,"path":"sprites/spr_mines/spr_mines.yy",},
     {"name":"path_beachToOcean2","order":1,"path":"paths/path_beachToOcean2/path_beachToOcean2.yy",},
     {"name":"TileSet3","order":2,"path":"tilesets/TileSet3/TileSet3.yy",},
@@ -28,6 +29,8 @@
     {"name":"rm_game2","order":2,"path":"rooms/rm_game2/rm_game2.yy",},
     {"name":"snd_heartbeat","order":2,"path":"sounds/snd_heartbeat/snd_heartbeat.yy",},
     {"name":"obj_motherTurtle","order":1,"path":"objects/obj_motherTurtle/obj_motherTurtle.yy",},
+    {"name":"obj_vfx","order":8,"path":"objects/obj_vfx/obj_vfx.yy",},
+    {"name":"shUnderwater","order":2,"path":"shaders/shUnderwater/shUnderwater.yy",},
     {"name":"obj_skip_intro","order":6,"path":"objects/obj_skip_intro/obj_skip_intro.yy",},
     {"name":"obj_mine","order":7,"path":"objects/obj_mine/obj_mine.yy",},
     {"name":"spr_beach","order":3,"path":"sprites/spr_beach/spr_beach.yy",},
