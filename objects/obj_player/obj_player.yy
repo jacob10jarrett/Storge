@@ -31,8 +31,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_turtle_animated2",
-    "path": "sprites/spr_turtle_animated2/spr_turtle_animated2.yy",
+    "name": "spr_turtle_animated",
+    "path": "sprites/spr_turtle_animated/spr_turtle_animated.yy",
   },
   "spriteMaskId": null,
   "visible": true,
