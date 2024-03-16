@@ -1,6 +1,3 @@
-
-
-
 if (keyboard_check(ord("S"))){
 	obj_player.y += movementSpeed
 }
