@@ -1,3 +1,5 @@
+
+
 dotTimer = 0;
 dotCount = 0;
 

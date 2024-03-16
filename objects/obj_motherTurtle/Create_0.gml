@@ -1,0 +1,1 @@
+path_start(path_beachToOcean, 4, path_action_stop, false);
