@@ -1,14 +1,19 @@
+
+
+
 if (keyboard_check(ord("S"))){
-	obj_player.y += 2
+	obj_player.y += movementSpeed
 }
 if (keyboard_check(ord("D"))){
-	obj_player.x += 2
+	obj_player.x += movementSpeed
+	image_xscale = 4;
 }
 if (keyboard_check(ord("W"))){
-	obj_player.y -= 2
+	obj_player.y -= movementSpeed
 }
 if (keyboard_check(ord("A"))){
-	obj_player.x -= 2
+	obj_player.x -= movementSpeed
+	image_xscale = -4;
 }
 
 
