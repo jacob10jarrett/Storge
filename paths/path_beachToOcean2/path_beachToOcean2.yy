@@ -1,14 +1,14 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "path_beachToOcean2",
-  "closed": false,
-  "kind": 1,
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+  "$GMPath":"",
+  "%Name":"path_beachToOcean2",
+  "closed":false,
+  "kind":1,
+  "name":"path_beachToOcean2",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
-  "points": [
+  "points":[
     {"speed":10.0,"x":689.00006,"y":592.5,},
     {"speed":15.0,"x":741.07605,"y":592.0886,},
     {"speed":25.0,"x":791.32837,"y":609.75946,},
@@ -17,5 +17,7 @@
     {"speed":50.0,"x":1232.1772,"y":814.83545,},
     {"speed":50.0,"x":2081.0,"y":955.5,},
   ],
-  "precision": 4,
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }
