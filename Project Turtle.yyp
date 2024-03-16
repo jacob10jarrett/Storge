@@ -55,6 +55,7 @@
     {"id":{"name":"fnt_titlescreen","path":"fonts/fnt_titlescreen/fnt_titlescreen.yy",},},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"spr_underwater","path":"sprites/spr_underwater/spr_underwater.yy",},},
     {"id":{"name":"obj_text_game2","path":"objects/obj_text_game2/obj_text_game2.yy",},},
     {"id":{"name":"obj_babyTurtle","path":"objects/obj_babyTurtle/obj_babyTurtle.yy",},},
     {"id":{"name":"rm_titlescreen","path":"rooms/rm_titlescreen/rm_titlescreen.yy",},},

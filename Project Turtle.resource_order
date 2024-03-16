@@ -32,6 +32,7 @@
     {"name":"snd_song1","order":1,"path":"sounds/snd_song1/snd_song1.yy",},
     {"name":"spr_turtle_animated2","order":6,"path":"sprites/spr_turtle_animated2/spr_turtle_animated2.yy",},
     {"name":"obj_player","order":4,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_underwater","order":7,"path":"sprites/spr_underwater/spr_underwater.yy",},
     {"name":"obj_text_game2","order":3,"path":"objects/obj_text_game2/obj_text_game2.yy",},
     {"name":"obj_babyTurtle","order":2,"path":"objects/obj_babyTurtle/obj_babyTurtle.yy",},
   ],
