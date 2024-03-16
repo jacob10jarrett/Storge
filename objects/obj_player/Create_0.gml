@@ -1,9 +1,7 @@
 player_xscale = 1;
 
 flashAlpha = 0;
-flashColor = c_navy;
+flashColor = c_red;
 
+text = "The ocean contained various dangers";
 fear = 10;
-
-heartbeatTriggerDistance = 100;
-isHeartbeatPlaying = false;
