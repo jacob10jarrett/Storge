@@ -48,6 +48,7 @@
     {"id":{"name":"obj_titlescreen_controller","path":"objects/obj_titlescreen_controller/obj_titlescreen_controller.yy",},},
     {"id":{"name":"rm_game2","path":"rooms/rm_game2/rm_game2.yy",},},
     {"id":{"name":"obj_motherTurtle","path":"objects/obj_motherTurtle/obj_motherTurtle.yy",},},
+    {"id":{"name":"shFlash","path":"shaders/shFlash/shFlash.yy",},},
     {"id":{"name":"obj_skip_intro","path":"objects/obj_skip_intro/obj_skip_intro.yy",},},
     {"id":{"name":"obj_mine","path":"objects/obj_mine/obj_mine.yy",},},
     {"id":{"name":"spr_beach","path":"sprites/spr_beach/spr_beach.yy",},},

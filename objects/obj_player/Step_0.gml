@@ -27,3 +27,10 @@ obj_player.x += 2
 
 	obj_player.y += 2
 }
+if keyboard_check(ord("R")){
+	room_restart();
+}
+if (flashAlpha > 0){
+	
+	flashAlpha -= 0.05;
+}
