@@ -34,8 +34,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_turtle_animated",
-    "path": "sprites/spr_turtle_animated/spr_turtle_animated.yy",
+    "name": "temp_turtle_animation",
+    "path": "sprites/temp_turtle_animation/temp_turtle_animation.yy",
   },
   "spriteMaskId": null,
   "visible": true,
