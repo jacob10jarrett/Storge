@@ -1,4 +1,4 @@
-dialogueText = "Eventually, only one survived.";
+dialogueText = "But, only one hatchling survived the initial journey from the nest.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 

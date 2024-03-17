@@ -1,4 +1,4 @@
-dialogueText = "Most turtles leave their hatchlings, but she stayed.";
+dialogueText = "Unlike most turtles, she stayed with her hatchlings.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 

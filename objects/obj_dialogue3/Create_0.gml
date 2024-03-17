@@ -1,4 +1,4 @@
-dialogueText = "They were closing in on the open ocean.";
+dialogueText = "As they ventured beyond the shallow waters, the open ocean loomed ahead.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 
