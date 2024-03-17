@@ -11,6 +11,8 @@ if (x > 1825 && !inCutscene) {
 if (inCutscene) {
     switch(cutsceneStep) {
         case 1:
+	
+	audio_play_sound(snd_song3, 1, true);
             targetX = 2304; // First target coordinates
             targetY = 672;
             moveTowardsPoint(targetX, targetY, 3); // Custom script to move towards a point

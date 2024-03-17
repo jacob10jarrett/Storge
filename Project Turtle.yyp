@@ -104,6 +104,7 @@
     {"id":{"name":"spr_beach","path":"sprites/spr_beach/spr_beach.yy",},},
     {"id":{"name":"spr_seaweed","path":"sprites/spr_seaweed/spr_seaweed.yy",},},
     {"id":{"name":"obj_objective_1","path":"objects/obj_objective_1/obj_objective_1.yy",},},
+    {"id":{"name":"snd_song3","path":"sounds/snd_song3/snd_song3.yy",},},
     {"id":{"name":"obj_dialogue2","path":"objects/obj_dialogue2/obj_dialogue2.yy",},},
     {"id":{"name":"obj_dialogue8","path":"objects/obj_dialogue8/obj_dialogue8.yy",},},
     {"id":{"name":"rm_dialogue5","path":"rooms/rm_dialogue5/rm_dialogue5.yy",},},

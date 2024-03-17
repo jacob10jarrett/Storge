@@ -81,6 +81,7 @@
     {"name":"spr_beach","order":3,"path":"sprites/spr_beach/spr_beach.yy",},
     {"name":"spr_seaweed","order":34,"path":"sprites/spr_seaweed/spr_seaweed.yy",},
     {"name":"obj_objective_1","order":45,"path":"objects/obj_objective_1/obj_objective_1.yy",},
+    {"name":"snd_song3","order":4,"path":"sounds/snd_song3/snd_song3.yy",},
     {"name":"obj_dialogue2","order":10,"path":"objects/obj_dialogue2/obj_dialogue2.yy",},
     {"name":"obj_dialogue8","order":57,"path":"objects/obj_dialogue8/obj_dialogue8.yy",},
     {"name":"rm_dialogue5","order":11,"path":"rooms/rm_dialogue5/rm_dialogue5.yy",},
