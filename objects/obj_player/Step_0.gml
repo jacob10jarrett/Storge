@@ -1,5 +1,13 @@
 var currentSpeed = isBoosted ? boostSpeed : movementSpeed;
 
+
+if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
+	with (instance_nearest(x, y, obj_lines)) {
+	//audio_play_sound(snd_rotate, 9, false)
+	image_angle += 90;
+	}
+}
+
 if (keyboard_check(ord("S"))){
     obj_player.y += currentSpeed;
 }
@@ -42,11 +50,4 @@ if (isBoosted) {
     if (boostDuration <= 0) {
         isBoosted = false;
     }
-}
-
-if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
-	with (instance_nearest(x, y, obj_lines)) {
-	//audio_play_sound(snd_rotate, 9, false)
-	image_angle += 90;
-	}
 }

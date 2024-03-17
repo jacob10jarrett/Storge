@@ -1,5 +1,6 @@
-player_xscale = 1;
-
+player_xscale = 2;
+fading = false;
+fadeSpeed = 1;
 flashAlpha = 0;
 flashColor = c_navy;
 
