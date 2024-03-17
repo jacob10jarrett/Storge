@@ -1,4 +1,4 @@
-var mySound = snd_song1; 
+var mySound = snd_song2; 
 var loop = true; 
 var priority = 1; 
 var volume = 1;

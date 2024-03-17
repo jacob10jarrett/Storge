@@ -1,6 +1,6 @@
 if (keyboard_check_pressed(vk_anykey) || mouse_check_button_pressed(mb_left) || mouse_check_button_pressed(mb_right)) {
 	audio_stop_sound(snd_underwater);
-    room_goto(rm_game); 
+    room_goto(rm_dialogue1); 
 }
 
 dotTimer += 1;
