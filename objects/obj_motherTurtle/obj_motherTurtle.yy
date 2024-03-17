@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_turtle_animated2",
-    "path": "sprites/spr_turtle_animated2/spr_turtle_animated2.yy",
+    "name": "temp_turtle_animation",
+    "path": "sprites/temp_turtle_animation/temp_turtle_animation.yy",
   },
   "spriteMaskId": null,
   "visible": true,
