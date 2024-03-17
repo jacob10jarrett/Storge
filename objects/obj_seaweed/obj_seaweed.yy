@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_seaweed_placeholder",
-    "path": "sprites/spr_seaweed_placeholder/spr_seaweed_placeholder.yy",
+    "name": "spr_seaweed",
+    "path": "sprites/spr_seaweed/spr_seaweed.yy",
   },
   "spriteMaskId": null,
   "visible": true,
