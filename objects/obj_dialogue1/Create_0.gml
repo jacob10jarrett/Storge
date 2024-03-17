@@ -1,4 +1,4 @@
-dialogueText = "Unlike most turtles, she stayed with her hatchlings.";
+dialogueText = "The mother stayed behind to protect her eggs";
 
 textSpeed = 20; 
 currentCharIndex = 0; 
