@@ -6,6 +6,6 @@ flashColor = c_navy;
 fear = 10;
 
 movementSpeed = 2;
-boostSpeed = 10; 
+boostSpeed = 20; 
 isBoosted = false; 
 boostDuration = 0;
