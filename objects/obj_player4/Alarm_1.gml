@@ -1,1 +1,1 @@
-room_goto(rm_game5);
+room_goto(rm_dialogue6);
