@@ -1,5 +1,22 @@
-var currentSpeed = isBoosted ? boostSpeed : movementSpeed;
-
+if (isBoosted) {
+    if (boostDuration > room_speed / 2) {
+        // Accelerate until halfway through the boost duration
+        currentSpeed += acceleration;
+    } else {
+        // Decelerate as the boost ends
+        currentSpeed -= deceleration;
+    }
+    
+    // Clamp currentSpeed between movementSpeed and boostSpeed
+    currentSpeed = clamp(currentSpeed, movementSpeed, boostSpeed);
+    
+    // Decrease the duration of the boost each step
+    boostDuration--;
+    if (boostDuration <= 0) {
+        isBoosted = false;
+        currentSpeed = movementSpeed; // Reset speed after boost ends
+    }
+}
 
 if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Z"))) {
 	with (instance_nearest(x, y, obj_lines)) {

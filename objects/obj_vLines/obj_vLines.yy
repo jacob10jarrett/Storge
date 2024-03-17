@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_vStones",
-    "path": "sprites/spr_vStones/spr_vStones.yy",
+    "name": "spr_vStones_3",
+    "path": "sprites/spr_vStones_3/spr_vStones_3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
