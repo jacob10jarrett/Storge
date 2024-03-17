@@ -50,13 +50,11 @@
     {"name":"inst_12A8FBD7_1","path":"rooms/rm_game5/rm_game5.yy",},
     {"name":"inst_43A7DD2C_1","path":"rooms/rm_game5/rm_game5.yy",},
     {"name":"inst_792B03E0","path":"rooms/rm_game5/rm_game5.yy",},
-    {"name":"inst_6CCA247E","path":"rooms/rm_game5/rm_game5.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_792B03E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player4","path":"objects/obj_player4/obj_player4.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":4.0,"x":160.0,"y":640.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6CCA247E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_792B03E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player4","path":"objects/obj_player4/obj_player4.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":4.0,"x":896.0,"y":640.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_3","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_5A5D2D61_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":92.56003,"scaleX":0.6,"scaleY":0.6,"spriteId":{"name":"spr_six_pack","path":"sprites/spr_six_pack/spr_six_pack.yy",},"x":2132.0,"y":706.0,},
@@ -191,7 +189,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":1500,"hport":648,"hspeed":-1,"hview":648,"inherit":false,"objectId":{"name":"obj_player3","path":"objects/obj_player3/obj_player3.yy",},"vborder":32,"visible":true,"vspeed":-1,"wport":1152,"wview":1152,"xport":0,"xview":0,"yport":0,"yview":300,},
+    {"hborder":1500,"hport":648,"hspeed":-1,"hview":648,"inherit":false,"objectId":{"name":"obj_player3","path":"objects/obj_player3/obj_player3.yy",},"vborder":32,"visible":true,"vspeed":-1,"wport":1152,"wview":1152,"xport":0,"xview":600,"yport":0,"yview":300,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},

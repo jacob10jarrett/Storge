@@ -50,13 +50,11 @@
     {"name":"inst_12A8FBD7","path":"rooms/rm_game4/rm_game4.yy",},
     {"name":"inst_43A7DD2C","path":"rooms/rm_game4/rm_game4.yy",},
     {"name":"inst_6A721A64","path":"rooms/rm_game4/rm_game4.yy",},
-    {"name":"inst_5CE78405","path":"rooms/rm_game4/rm_game4.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A721A64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player3","path":"objects/obj_player3/obj_player3.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":4.0,"x":128.0,"y":640.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CE78405","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_fadeBlack","path":"objects/obj_fadeBlack/obj_fadeBlack.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":672.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_3","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_5A5D2D61","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":92.56003,"scaleX":0.6,"scaleY":0.6,"spriteId":{"name":"spr_six_pack","path":"sprites/spr_six_pack/spr_six_pack.yy",},"x":2132.0,"y":706.0,},
