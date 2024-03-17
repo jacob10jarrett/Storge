@@ -6,7 +6,7 @@ boostSpeed = 20;
 isBoosted = false;
 boostDuration = 3;
 
-acceleration = 0.3; 
+acceleration = 0.1; 
 deceleration = 0.3;
 
 flashAlpha = 0;

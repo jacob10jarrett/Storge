@@ -1,4 +1,4 @@
-dialogueText = "As they neared the open ocean, a strong current swept her son away.";
+dialogueText = "She was determined to find her son.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 

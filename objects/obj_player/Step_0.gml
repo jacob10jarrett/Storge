@@ -1,20 +1,21 @@
 if (isBoosted) {
-    if (boostDuration > room_speed / 2) {
-        // Accelerate until halfway through the boost duration
+    // Correctly handle acceleration and then deceleration
+    if (boostDuration > room_speed) {
+        // Accelerate for the first half of the duration
         currentSpeed += acceleration;
     } else {
-        // Decelerate as the boost ends
+        // Start decelerating after halfway through
         currentSpeed -= deceleration;
     }
-    
+
     // Clamp currentSpeed between movementSpeed and boostSpeed
     currentSpeed = clamp(currentSpeed, movementSpeed, boostSpeed);
-    
+
     // Decrease the duration of the boost each step
     boostDuration--;
     if (boostDuration <= 0) {
         isBoosted = false;
-        currentSpeed = movementSpeed; // Reset speed after boost ends
+        currentSpeed = movementSpeed; // Ensure this resets speed to normal
     }
 }
 
