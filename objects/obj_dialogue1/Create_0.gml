@@ -1,4 +1,4 @@
-dialogueText = "The mother stayed behind to protect her eggs";
+dialogueText = "The following game was created in 2 days.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 

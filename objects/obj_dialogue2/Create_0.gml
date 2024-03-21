@@ -1,4 +1,4 @@
-dialogueText = "But, only one hatchling survived the initial journey.";
+dialogueText = "The mother stayed behind to protect her eggs. But, only one hatchling survived the initial journey.";
 
 textSpeed = 20; 
 currentCharIndex = 0; 

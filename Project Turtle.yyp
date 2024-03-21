@@ -48,6 +48,7 @@
     {"id":{"name":"rm_dialogue4","path":"rooms/rm_dialogue4/rm_dialogue4.yy",},},
     {"id":{"name":"spr_mines","path":"sprites/spr_mines/spr_mines.yy",},},
     {"id":{"name":"spr_vStones_3","path":"sprites/spr_vStones_3/spr_vStones_3.yy",},},
+    {"id":{"name":"obj_fade","path":"objects/obj_fade/obj_fade.yy",},},
     {"id":{"name":"path_beachToOcean2","path":"paths/path_beachToOcean2/path_beachToOcean2.yy",},},
     {"id":{"name":"snd_song2","path":"sounds/snd_song2/snd_song2.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},

@@ -30,6 +30,7 @@
     {"name":"rm_dialogue4","order":6,"path":"rooms/rm_dialogue4/rm_dialogue4.yy",},
     {"name":"spr_mines","order":8,"path":"sprites/spr_mines/spr_mines.yy",},
     {"name":"spr_vStones_3","order":58,"path":"sprites/spr_vStones_3/spr_vStones_3.yy",},
+    {"name":"obj_fade","order":58,"path":"objects/obj_fade/obj_fade.yy",},
     {"name":"path_beachToOcean2","order":1,"path":"paths/path_beachToOcean2/path_beachToOcean2.yy",},
     {"name":"snd_song2","order":3,"path":"sounds/snd_song2/snd_song2.yy",},
     {"name":"TileSet3","order":2,"path":"tilesets/TileSet3/TileSet3.yy",},

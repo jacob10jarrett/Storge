@@ -1,4 +1,4 @@
-dialogueText = "Her search ended in heartbreak.";
+dialogueText = "";
 
 textSpeed = 20; 
 currentCharIndex = 0; 
